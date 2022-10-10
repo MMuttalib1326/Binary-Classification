@@ -12,14 +12,14 @@ This is the assignment solution for the datascience role of a Company. I have at
 7.xgboost
 
 # Technologies
-Python,
-Numpy,
-Pandas,
-Matplotlib,
-Seaborn,
-Scikit learn,
-jupyter notebook,
-etc.
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit learn
+- jupyter notebook
+- etc.
 
 # Key Steps:
 - Used RandomForest Classifier for feature selection.
